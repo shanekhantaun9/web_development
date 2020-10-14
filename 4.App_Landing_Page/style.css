@@ -1,0 +1,99 @@
+/*add a cover background picture for the featured part with a fixed height*/
+.jumbotron{
+	background:url(images/background.jpeg);
+	background-size:100% 100%;
+	/*background-repeat: no-repeat;*/
+	height: 600px;
+}
+/*set the size of the logo*/
+.logo{
+	width:75px;
+	height: 75px;
+}
+
+/*set text color of featured content*/
+.featured{
+	color:#fff;
+}
+
+/*create space between title and the logo*/
+.featured h1{
+	padding-top:60px;
+}
+
+/*style links*/
+.featured .btn-default{
+	font-weight: bold;
+	color:white;
+	background-color:rgba(145,82,58,0.5);
+	border-radius:10px;
+	margin-top:20px;
+	width:170px;
+	margin-right: 15px;
+}
+
+.featured .btn-default:hover{
+	background-color:rgb(145,82,58);
+}
+
+.trial{
+	text-align: center;
+	padding:20px 0 40px 0;
+	color:black;
+}
+.trial img{
+	width:200px;
+	height:70px;
+	margin:20px;
+}
+/*footer style*/
+.footer{
+	background-color:#eee;
+	font-size:15px;
+	padding:10px 0;
+}
+/*add styling for devices between 480px and 768px*/
+@media (min-with:480px) and (max-width: 768px){
+	.jumbotron{
+		height:410px;
+		margin:0;
+	}
+	.logo{
+		width:50px;
+		height:50px;
+	}
+	.featured h1{
+		padding-top:30px;
+	}
+	.featured p{
+		font-size:17px;
+	}
+	.featured{
+		text-align:center;
+	}
+}
+/*add styling for devices under 480px*/
+@media (max-width: 768px){
+	.jumbotron{
+		height:410px;
+		margin:0;
+	}
+	.logo{
+		width:40px;
+		height:40px;
+	}
+	.featured h1{
+		padding-top:10px;
+	}
+	.featured p, .featured a{
+		font-size:13px;
+	}
+	.featured{
+		text-align:center;
+	}
+	.trial img{
+		width:100px;
+		height:35px;
+		margin:10px;
+	}
+}
