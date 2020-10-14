@@ -1,5 +1,5 @@
 ### 1.Math Website (HTML,CSS)
-- <img src="img/math_website.png">
+- <img src="img/math_website.gif">
 
 
 ### 2.Math_Game (HTML,CSS,JAVASCRIPT)
@@ -10,4 +10,4 @@
 
 ### 4.App Landing Page (HTML,CSS,BOOTSTRAP)
 - Responsive Web Page
-- <img src="img/app_land.png">
+- <img src="img/app_land.gif">
