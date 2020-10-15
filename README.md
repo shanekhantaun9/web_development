@@ -2,7 +2,7 @@
 - <img src="img/math_website.gif">
 
 
-### 2.Math_Game (HTML,CSS,JAVASCRIPT)
+### 2.Math Game (HTML,CSS,JAVASCRIPT)
 - <img src="img/math_game.gif">
 
 ### 3.Fruits Slice Game (HTML,CSS,JQUERY)
@@ -11,3 +11,7 @@
 ### 4.App Landing Page (HTML,CSS,BOOTSTRAP)
 - Responsive Web Page
 - <img src="img/app_land.gif">
+
+### 4.Company Website (HTML,CSS,BOOTSTRAP)
+- Responsive Web Page
+- <img src="img/company_website.gif">
