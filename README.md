@@ -12,6 +12,6 @@
 - Responsive Web Page
 - <img src="img/app_land.gif">
 
-### 4.Company Website (HTML,CSS,BOOTSTRAP)
+### 5.Company Website (HTML,CSS,BOOTSTRAP)
 - Responsive Web Page
 - <img src="img/company_website.gif">
