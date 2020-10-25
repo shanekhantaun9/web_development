@@ -19,3 +19,7 @@
 ### 6.Our Lovely Course (HTML,CSS,BOOTSTRAP,JQUERY)
 - Responsive Web Page
 - <img src="img/our_lovely_course.gif">
+
+### 7.Stop Watch (HTML,CSS,JQUERY)
+- Responsive Web Page
+- <img src="img/stop_watch.gif">
